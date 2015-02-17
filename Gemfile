@@ -53,3 +53,5 @@ gem 'dotenv-rails', group: :development
 gem 'aws-sdk'
 
 gem 'friendly_id'
+
+gem 'stripe'
