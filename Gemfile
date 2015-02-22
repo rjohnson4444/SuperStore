@@ -55,3 +55,5 @@ gem 'aws-sdk'
 gem 'friendly_id'
 
 gem 'stripe'
+
+gem 'aasm'

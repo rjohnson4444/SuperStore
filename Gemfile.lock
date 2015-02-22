@@ -12,6 +12,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
+    aasm (4.0.8)
     actionmailer (4.1.8)
       actionpack (= 4.1.8)
       actionview (= 4.1.8)
@@ -185,6 +186,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  aasm
   aws-sdk
   cancan
   coffee-rails (~> 4.0.0)
